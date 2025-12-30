@@ -5,7 +5,7 @@ An Internet Capital Market built on instant finality, zero friction, and program
 
 
 
-<img width="4320" height="1440" alt="KURUMI 2K BANNER" src="https://github.com/user-attachments/assets/96352eb5-b84b-4b01-aa37-7551499c3b15" />
+
 
 
 
